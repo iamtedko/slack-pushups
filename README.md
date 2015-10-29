@@ -1,6 +1,6 @@
-# Bitcoin Microsite
-#### IDEO Futures + IDEO Palo Alto
-
+# Slack Pushups
+#### A slack integration for hourly pushups
+<!-- 
 ### Setup
 Requires Node, NPM, Yo, Bower
 ```
@@ -99,4 +99,4 @@ var svg = {}
 
 
 
-MIT License?
+MIT License? -->
